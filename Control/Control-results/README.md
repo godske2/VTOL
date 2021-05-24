@@ -1,2 +1,2 @@
 # VTOL
-VTOL FOR MASTER PROJECT AT AAU 2021 GROUP 930 - LONG THESIS
+Contains all relevant tests and csv files for them. Included is a Matlab decoding script to help filter the data and what each cell means.
